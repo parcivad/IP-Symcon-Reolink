@@ -1,0 +1,10 @@
+{
+  "translations": {
+    "de": {
+      "IP-Address": "IP-Adresse",
+      "Username": "User",
+      "Password": "Passwort",
+      "Information about this device": "Information über das Gerät"
+    }
+  }
+}
